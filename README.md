@@ -1,4 +1,4 @@
-# Student Score Predictor (Large-Scale Analytics)
+# Student Performance Analysis (Large-Scale Analytics)
 
 Ce projet de Machine Learning analyse et modélise des **millions de données d'étudiants** afin de prédire l'impact des activités et des comportements sur leur note globale finale (`total_score`). 
 
